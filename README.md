@@ -1,4 +1,4 @@
-# fall2016-group1-userportal
+# Prattle
 ###Live demo for [Prattle](http://52.201.233.197:5001/)
 ###How to use: 
 1. Clone repo
@@ -13,7 +13,3 @@
 ###Create a new branch, do not commit directly to **origin master**, to do so:
 1. `git branch [name]` give it a proper name
 2. `git checkout [name]`
-
-
-
-
